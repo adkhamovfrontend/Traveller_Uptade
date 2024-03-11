@@ -1,0 +1,592 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Main{
+    width: 1000px;
+    margin: 0 auto;	
+}
+.Block_One{
+    position: relative;
+}
+.img_1 img{
+    width: 1000px;
+    position: absolute;
+}
+.Traveller_txt{
+    position: absolute;
+    color: white;
+    top: 24px;
+    left: 170px;
+    font-size: 20px;
+}
+.Guide_txt{
+    position: absolute;
+    color: white;
+    top: 30px;
+    right: 500px;
+    font-size: 13px;
+}	
+.About_Us{
+    position: absolute;
+    color: white;
+    top: 30px;
+    right: 420px;
+    font-size: 13px;
+}
+.Blog_txt{
+    position: absolute;
+    color: white;
+    top: 30px;
+    right: 350px;
+    font-size: 13px;
+}
+.codicon_icon img{
+    position: absolute;
+    color: white;
+    top: 35px;
+    right: 208px;
+    font-size: 5px;
+    width: 10px;
+}
+.Accaunt_txt{
+    position: absolute;
+    color: white;
+    top: 30px;
+    right: 150px;
+}
+.line20_icon img{
+    position: absolute;
+    color: white;
+    top: 140px;
+    left: 170px;
+    width: 60px;
+}
+.Welcome_Txt{
+    position: absolute;
+    color: #FFC700;;
+    left: 240px;
+    top: 136px;
+    font-size: 13px;
+}
+.Explore_txt{
+    position: absolute;
+    color: white;
+    left: 170px;
+    top: 170px;
+    font-size: 30px;
+    width: 290px;
+}
+.Scrool_down{
+    position: absolute;
+    color: white;
+    left: 175px;
+    top: 250px;
+    font-size: 12px;
+    width: 290px;
+    letter-spacing: .5px;
+    margin-top: 35px;
+}
+.block2_one_one{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+}
+.Arrow5_icon img{
+    position: absolute;
+    color: white;
+    width: 10px;
+    height: 15px;
+    left: 250px;
+    top: 250px;
+    margin-top: 35px;
+}
+.Block_Th{
+    position: relative;
+    top: 400px;
+    background-color: #333333;
+    width: 1000px;
+    height: 1200px;
+}
+.Block_Four{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 100px;
+    left: 120px;
+}
+.Block_Th .one .Block_Four .block1 img{
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.Started_txt{
+    color: #FFA800;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 75px;
+}
+.What_Txt{
+    color: white;
+    width: 180px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.Lorem_txt{
+    color: white;
+    font-size: 11px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.Read_More{
+    color: #FFA800;
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.Arrow6_icon img{
+    width: 17px;
+}
+.Arrow6_icon{
+    margin-left: 65px;
+    margin-top: -17px;
+}
+.Block_Five{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    bottom: 550px;
+    right: 120px;
+}
+.Five_img img{
+    width: 300px;
+    height: 300px;
+    margin-top: -1000px;
+}
+.Block_Seven{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 500px;
+    left: 590px;
+}
+.Six_icon img{
+    width: 300px;
+    height: 300px;
+    margin-top: 470px;
+    margin-left: 130px;
+}
+.Line21_icon img{
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.eight_img img{
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: 80px;
+}
+.Line22_icon img{
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.Block_8{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 890px;
+    left: 130px;
+}
+.Where_You{
+    color: #FFA800;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-left: 75px;
+}
+.Understand_txt{
+    color: white;
+    width: 180px;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.Block_10{
+    position: relative;
+    width: 1000px;
+    height: 230px;
+    background-color: black;
+    top: 400px;
+}
+.Traveller_two{
+    color: white;
+    width: 200px;
+    position: absolute;
+    margin: 30px 145px;
+    font-size: 20px;
+}
+.Get_Our{
+    color: white;
+    width: 170px;
+    position: absolute;
+    margin: 80px 145px;
+    font-size: 12px;
+}
+.Block_11{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.Block_12{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 688px;
+}
+.More_on{
+    position: absolute;
+    color:  #FFA800;
+    font-size: 13px;
+}
+.About_MNTN{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 23px;
+}
+.Contribubors{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 41px;
+}
+.Write_For{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 59px;
+}
+.Contant_US{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 77px;
+}
+.Privacy_Policy{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top:95px;
+}
+.MNTN_txt{
+    position: absolute;
+    color:  #FFA800;
+    font-size: 13px;
+}
+.The_team{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 25px;
+}
+.Jobs{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 45px;
+}
+.Press{
+    position: absolute;
+    color:  white;
+    font-size: 10px;
+    top: 65px;
+}
+.Block13_Logos{
+    margin-top: 95px;
+}
+.img2{
+    margin-left: 15px;
+}
+.block3_inside4{
+    position: relative;
+    top: 190px;
+    left: 60px;
+    width: 400px;
+}
+.block3_inside4_one{
+    color: gray;
+    font-size: 13px;
+}
+.Traveller_txt a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.Guide_txt a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.About_Us a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.Blog_txt a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.Accaunt_txt a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.Scrool_down a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.Read_More a{
+    color:  #FFA800;
+    list-style: none;
+    text-decoration: none;
+}
+.Book{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+@media screen and (max-width: 1100px){
+    .Main{
+        margin: 0 auto;
+        width: 500px;
+    }
+
+    .Block_One{
+        width: 500px;
+        position: relative;
+    }
+    .img_1 img{
+        width: 600px;
+        height: 400px;
+        position: absolute;
+    }
+    .Traveller_txt{
+        top: 30px;
+        left: 250px;
+        font-size: 25px;
+    }
+    .Block_two{
+        margin-top: 100px;
+        text-align: center;
+        margin-left: -20px;
+    }
+    .Welcome_Txt{
+        margin-left: 60px;
+    }
+    .line20_icon img{
+        margin-left: 60px;
+    }
+    .Accaunt_txt{
+        top: 100px;
+        left: 450px;
+    }
+    .Guide_txt{
+        top: 100px;
+        left: 150px;
+        width: 150px;
+    }
+    .Blog_txt{
+        top: 100px;
+        left: 270px;
+        width: 150px;
+    }
+    .block1_six{
+        top: 90px;
+        left: 265px;
+        width: 150px;
+    }
+    .About_Us{
+        top: 100px;
+        left: 350px;
+        width: 150px;
+    }
+    .codicon_icon img{
+        top:105px;
+        left: 512px;
+    }
+    .Block_Th{
+        width: 600px;
+        position: relative;
+        height: 2050px;
+    }
+    .Block_Four{
+        top: 75px;
+        left: 150px;
+        text-align: center;
+    }
+    .What_Txt{
+        margin-left: 60px;
+    }
+    .Line21_icon img{
+        margin-left: 60px;
+    }
+    .Started_txt{
+        margin-left: -50px;
+    }
+    .Read_More{
+        margin-left: -110px;
+    }
+    .Arrow6_icon img{
+        margin-left: -90px;	
+    }
+    .Block_Five{
+        top: 650px;
+        left: 150px;
+    }
+    .Block_Six{
+        top: 75px;
+        left: 150px;
+        text-align: center;
+        position: relative;
+    }
+    .Block_Seven{
+        top: 750px;
+        left: 150px;
+        text-align: center;
+    }
+    .Block_Six{
+        top: 540px;
+        left: -70px;
+    }
+    .Block_8{
+        top: 1380px;
+        left: 160px;
+        text-align: center;
+    }
+    .Block_Eight{
+        margin-top: 820px;
+        margin-left: -450px;
+    }
+    .block3{
+        position: relative;
+        width: 600px;
+        position: relative;
+        height: 660px;
+    }
+    .Block_10{
+        width: 600px;
+        height: 620px;
+
+    }
+    
+    .Block10_inner{
+        position: absolute;
+        margin-top: 50px;
+        margin-left: 60px;
+        text-align: center;
+    }
+    .Block_11{
+        position: absolute;
+        margin-top: 230px;
+        margin-left: 250px;
+        text-align: center;
+    }
+    .block3_inside3{
+        position: absolute;
+        margin-top: 410px;
+        margin-left: 250px;
+        text-align: center;
+    }
+    .Traveller_two{
+        font-size: 30px;
+    }
+    .Get_Our{
+        font-size: 13px;
+        margin-left: 115px;
+        letter-spacing: 2px;
+        width: 250px;
+    }
+    .More_on{
+        font-size: 15px;
+    }
+    .About_MNTN{
+        float: none;
+        font-size: 13px;
+        margin-left: 20px;
+    }		
+    .Contribubors{
+        font-size: 13px;
+        margin-left:-3px;
+    }
+    .Write_For{
+        font-size: 13px;
+        margin-left: 20px;
+    }
+    .Contant_US{
+        font-size: 13px;
+        margin-left: 25px;
+    }
+    .Privacy_Policy{
+        font-size: 13px;
+        margin-left: 17px;
+    }
+    .MNTN_txt{
+        font-size: 15px;
+        margin-left: -218%;
+        margin-top: 170%;
+    }
+    .The_team{
+        font-size: 13px;
+        margin-left: -210%;
+        margin-top: 170%;
+
+    }
+    .Jobs{
+        font-size: 13px;
+        margin-left: -210%;
+        margin-top: 170%;
+    }
+    .Press{
+        font-size: 13px;
+        margin-left: -210%;
+        margin-top: 170%;
+
+    }
+    .Block13_Logos{
+        margin-left: -220%;
+        margin-top: 225%;
+
+
+    }
+    .block3_inside4_one{
+        position: absolute;
+        margin-top:400px;
+    }
+    .Arrow5_icon img{
+        margin-left: 115px;
+    }
+    .Line22_icon img{
+        margin-left: 40px;
+    }
+    .Where_You{
+        margin-left: -20px;
+    }
+    .Understand_txt{
+        margin-left: 60px;
+    }
+}
